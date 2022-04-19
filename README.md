@@ -12,5 +12,4 @@
 ### Results
 ![main_result](plots/main_result.svg "Training & Validation Accuracy")
 ![confusion_matrix](plots/confusion_matrix.svg "Confusion matrix")
-# Image-Classification-using-CNN
-# Image-Classification-using-CNN
+
